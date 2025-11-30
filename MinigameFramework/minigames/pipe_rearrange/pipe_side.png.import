@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cf63fgm4ejnvf"
-path="res://.godot/imported/WallCorner.png-374fd9810ba2a2a10da31c886d9557ee.ctex"
+uid="uid://b1sun8bvgpfxq"
+path="res://.godot/imported/pipe_side.png-0f38aeb6d613283ad907b2ff2d9516ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/environment/WallCorner.png"
-dest_files=["res://.godot/imported/WallCorner.png-374fd9810ba2a2a10da31c886d9557ee.ctex"]
+source_file="res://minigames/pipe_rearrange/pipe_side.png"
+dest_files=["res://.godot/imported/pipe_side.png-0f38aeb6d613283ad907b2ff2d9516ee.ctex"]
 
 [params]
 
